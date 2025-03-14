@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there! 👋
+My name is Federico Civitareale. I am currently studying **`Computer Science`** at the University of Illinois at Chicago and Cybersecurity at Politecnico di Torino.
+I'm interes
 <!--
 **Civita2107/Civita2107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
