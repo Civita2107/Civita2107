@@ -1,8 +1,8 @@
 ## 👋 Hey there! **`whoami`**: Federico!
 I'm a tech enthusiast currently studying **Computer Science** at the **University of Illinois at Chicago** and **Cybersecurity** at **Politecnico di Torino**.
-Passionate about open-source technology like Linux and Bitcoin, my go-to languages are **Python**, **JavaScript**, **Java**, and **Bash**.
 
-I’ve worked on projects involving network security, cryptography, and blockchain. I’m always eager to learn, grow, and open to contribute to innovative projects.
+Passionate about open-source technology like Linux and Bitcoin, my go-to languages are **Python**, **JavaScript**, **Java**, and **Bash**.
+I’ve worked on projects involving **network security**, **machine learning**, and **blockchain**. I’m always eager to learn, grow, and open to contribute to innovative projects.
 
 ### 🌐 Reach me online:
 
