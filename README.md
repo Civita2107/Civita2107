@@ -2,9 +2,9 @@
 I'm a tech enthusiast currently studying **Computer Science** at the **University of Illinois at Chicago** and **Cybersecurity** at **Politecnico di Torino**.
 
 Passionate about open-source technology like Linux and Bitcoin, my go-to languages are **Python**, **JavaScript**, **Java**, and **Bash**.
-I’ve worked on projects involving **network security**, **machine learning**, and **blockchain**. I’m always eager to learn, grow, and open to contribute to innovative projects.
+I’ve worked on projects involving **network security**, **machine learning**, and **blockchain**. I’m always eager to learn and grow, and I am open to contributing to innovative projects.
 
-### 🌐 Reach me online:
+### 🌐 Connect with me online:
 
 <a href="https://www.linkedin.com/in/federico-civitareale/" target="blank"><img align="center" src="./images/linkedin.png" width="30px" height="30px" /></a>
 <a href="https://www.youtube.com/@FedericoCivitareale" target="blank"><img align="center" src="./images/youtube.png" width="30px" height="30px" /></a>
