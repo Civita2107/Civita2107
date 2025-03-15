@@ -7,7 +7,7 @@ I'm interested to the open source world and I've deeply studied Bitcoin
 
 <a href="https://www.linkedin.com/in/federico-civitareale/" target="blank"><img align="center" src="./images/linkedin.png" width="30px" height="30px" /></a>
 <a href="https://www.youtube.com/@FedericoCivitareale" target="blank"><img align="center" src="./images/youtube.png" width="30px" height="30px" /></a>
-<a href="mailto:f.civitareale@gmail.com" target="blank"><img align="center" src="./images/mail2.png" width="40px" height="40px" /></a>
+<a href="mailto:f.civitareale@gmail.com" target="blank"><img align="center" src="./images/mail.png" width="40px" height="40px" /></a>
 
 <!--
 **Civita2107/Civita2107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
