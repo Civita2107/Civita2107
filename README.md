@@ -1,5 +1,5 @@
-# 👋 whoami
-# civita
+## 👋 whoami
+## civita
 My name is Federico Civitareale. I am currently studying **Computer Science** at the **University of Illinois at Chicago** and **Cybersecurity** at **Politecnico di Torino**.
 I'm interested to the open source world and I've deeply studied Bitcoin  
 
