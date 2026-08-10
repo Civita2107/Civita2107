@@ -1,4 +1,4 @@
-## Hi there! 😄
+## Welcome to my GitHub profile
 I'm passionate about open-source technology like Linux and Bitcoin, and my go-to languages are **Python**, **JavaScript**, **Java**, and **Bash**.
 I’ve worked on projects involving **network security**, **machine learning**, and **blockchain**. I’m always eager to learn and grow, and I am open to contributing to innovative projects.
 
